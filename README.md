@@ -1,6 +1,6 @@
-# y
+# Real World Nuxt
 
-> y
+> Nuxt Study Project
 
 ## Build Setup
 
